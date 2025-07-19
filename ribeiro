@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "feat: projeto inicial Nossa Liga - app de futebol amador"
+git remote add origin https://github.com/ribeiro/nossa-liga.git
+git branch -M main
+git push -u origin main
